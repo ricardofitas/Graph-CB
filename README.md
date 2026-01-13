@@ -218,27 +218,6 @@ If you use this code in academic work, please cite:
 
 ---
 
-## 📜 License
-
-This repository is licensed under a **custom source-available, no-modification license**.
-
-You are allowed to:
-
-- View and read the source code.
-- Cite this software (or its DOI, if provided) in academic work.
-
-You are **not** allowed to:
-
-- Modify, adapt, or debug this software.
-- Redistribute this code or any modified version.
-- Use this software for commercial purposes.
-- Integrate any part of this code into other software projects.
-
-For full legal terms, please refer to [LICENSE.txt](./LICENSE.txt).  
-To request extended permissions, please contact the author (see below).
-
----
-
 ## 📧 Contact
 
 For questions, collaboration, or permission requests, please contact:
