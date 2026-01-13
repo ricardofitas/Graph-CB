@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+.spyproject/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# =========================
+# Project-specific ignores
+# =========================
+
+# Raw videos (often huge) - remove these lines if you want them tracked (or use Git LFS)
+data/**/Sample_videos/
+*.avi
+*.mp4
+*.mov
+
+# Extracted frames / intermediate images
+data/**/frames*/
+data/**/Frames*/
+
+# Generated outputs (uncomment if you don't want outputs tracked)
+data/**/graphs_figs_*/
+data/**/extra_figs_*/
+data/**/graphs_*.pkl
+data/**/Track_data_*.xlsx
+data/**/nodes_in_two_frames_*.xlsx
+data/**/node_displacements_vs_frame_*.csv
+data/**/img_analysis_*.xlsx
+data/**/modeling_data_*.xlsx

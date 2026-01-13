@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+opencv-python
+scikit-image
+networkx
+sknw
+scikit-learn
+openpyxl
+anastruct
